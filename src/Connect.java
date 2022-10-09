@@ -13,5 +13,5 @@ public class Connect {
             System.out.println("Ракеты не запущены, кажется что-то пошло не так! Пожалуйста, подождите");
             e.printStackTrace();
         }
-    }
+    } //12345
 }
